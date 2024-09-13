@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ενδεικτικό Jekyll post"
-date:   2022-08-01 03:01:00 +0000
+title:  "Welcome post"
+date:   2024-09-13 03:01:00 +0000
 categories: jekyll
 ---
 
